@@ -7,3 +7,5 @@ linha-02
 linha-03 
 linha-04
 linha-05
+linha-06
+linha-07
